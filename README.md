@@ -10,8 +10,8 @@ ask me about Mobile Development.
 
 How to reach me: omark4367@gmail.com.
 Social Media:
-GitHub: omareldery
-Dev: dev.omar Khaled Ammar
+GitHub: https://github.com/omareldery
+Dev: https://dev.to/omareldery
 LinkedIn: Omar Khaled Ammar
 
 Skills:
