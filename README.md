@@ -12,7 +12,7 @@ How to reach me: omark4367@gmail.com.
 Social Media:
 GitHub: https://github.com/omareldery
 Dev: https://dev.to/omareldery
-LinkedIn: Omar Khaled Ammar
+LinkedIn: www.linkedin.com/in/omar-khaled-1632191b0
 
 Skills:
 OOP
